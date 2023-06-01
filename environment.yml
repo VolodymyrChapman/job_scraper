@@ -38,7 +38,7 @@ dependencies:
   - libgomp=12.2.0
   - liblapack=3.9.0
   - libnsl=2.0.0
-  - libopenblas=0.3.21=
+  - libopenblas=0.3.21
   - libsodium=1.0.18
   - libsqlite=3.42.0
   - libstdcxx-ng=12.2.0
