@@ -1,5 +1,5 @@
 # job_scraper
- Simple python tools for scraping jobs for friends, enemies and all of the above :-)
+ Simple python tools for scraping jobs into a dataframe, removing duplicates.
  Given the nature of web scraping, strategies have to be specific to sites so currently, only tools for jobs.ac.uk (primarily academic posts) have been created. The plan is to expand this further.
  
  ## Installing dependencies - command line with Anaconda / miniconda
